@@ -10,6 +10,3 @@ public class Helloclass {
 	}
 
 }
-//올릴때 commit, push
-//가져올때는 fetch from origin,  pull
-// branch,  merge
